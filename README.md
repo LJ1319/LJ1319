@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LJ1319
+- 👋 Hi, I’m Luka Jikia
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP / Laravel
 
