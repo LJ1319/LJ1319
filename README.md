@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luka Jikia
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP / Laravel
+<!-- - 🌱 I’m currently learning PHP / Laravel -->
 
 <!---
 LJ1319/LJ1319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
